@@ -7,6 +7,7 @@
   <version>1.0</version>
     <modules>
         <module>btrace</module>
+        <module>asm</module>
     </modules>
     <packaging>pom</packaging>
 
