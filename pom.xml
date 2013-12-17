@@ -8,6 +8,7 @@
     <modules>
         <module>btrace</module>
         <module>asm</module>
+        <module>tips</module>
     </modules>
     <packaging>pom</packaging>
 
