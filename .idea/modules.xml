@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Tools.iml" filepath="$PROJECT_DIR$/Tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/asm/asm.iml" filepath="$PROJECT_DIR$/asm/asm.iml" />
       <module fileurl="file://$PROJECT_DIR$/btrace/btrace.iml" filepath="$PROJECT_DIR$/btrace/btrace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdkapi/jdkapi.iml" filepath="$PROJECT_DIR$/jdkapi/jdkapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tips/tips.iml" filepath="$PROJECT_DIR$/tips/tips.iml" />
     </modules>
   </component>
 </project>

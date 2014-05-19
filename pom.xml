@@ -9,6 +9,7 @@
         <module>btrace</module>
         <module>asm</module>
         <module>tips</module>
+        <module>jdkapi</module>
     </modules>
     <packaging>pom</packaging>
 
